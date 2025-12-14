@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-shadow: 5px 5px 15px rgba(50, 30, 200, 0.5);
+    
+}
